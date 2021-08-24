@@ -1,0 +1,8 @@
+item15/Store.java
+ item15.Store
+item15/stores/BookStore.java
+ item15.stores.BookStore
+item15/User.java
+ item15.User
+item15/Application.java
+ item15.Application
