@@ -20,7 +20,9 @@ class Calculator {
   public static class StaticOperation {
 
     public void innerCalculate() {
-
+      // 바깥 클래스의 private 변수에 접근할 수 있다
+      Calculator calculator = new Calculator();
+      calculator.value = 4;
     }
   }
 }
