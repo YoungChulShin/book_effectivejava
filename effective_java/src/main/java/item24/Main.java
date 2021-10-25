@@ -1,7 +1,5 @@
 package item24;
 
-import item24.Calculator.Operation;
-import item24.NonStaticCalculator.NonStaticOperation;
 
 public class Main {
 
