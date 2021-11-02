@@ -46,3 +46,19 @@ item28/ChooserListGeneric.java
  item28.ChooserListGeneric
 item28/Item28.java
  item28.Item28
+item31/Swap.java
+ item31.Swap
+item29/MyGenericStack.java
+ item29.MyGenericStack
+item31/Main.java
+ item31.Main
+item29/MyStack.java
+ item29.MyStack
+item30/PlayGround.java
+ item30.PlayGround
+item31/MyWildStack.java
+ item31.MyWildStack
+item32/VarArgs.java
+ item32.VarArgs
+item32/Main.java
+ item32.Main
