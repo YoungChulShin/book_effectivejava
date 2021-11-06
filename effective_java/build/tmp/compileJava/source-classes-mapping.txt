@@ -68,5 +68,18 @@ item33/Main.java
  item33.Main
 item34/Planet.java
  item34.Planet
+item34/Operation2.java
+ item34.Operation2
+ item34.Operation2$1
+ item34.Operation2$2
+ item34.Operation2$3
+ item34.Operation2$4
+item34/Operation.java
+ item34.Operation
+ item34.Operation$1
 item34/Main.java
  item34.Main
+item35/Main.java
+ item35.Main
+item35/Ensemble.java
+ item35.Ensemble
