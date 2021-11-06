@@ -79,7 +79,12 @@ item34/Operation.java
  item34.Operation$1
 item34/Main.java
  item34.Main
-item35/Main.java
- item35.Main
 item35/Ensemble.java
  item35.Ensemble
+item35/Main.java
+ item35.Main
+item36/Text.java
+ item36.Text
+ item36.Text$Style
+item36/Main.java
+ item36.Main
