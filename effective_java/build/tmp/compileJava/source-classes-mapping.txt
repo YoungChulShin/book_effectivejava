@@ -1,15 +1,65 @@
+item36/Text.java
+ item36.Text
+ item36.Text$Style
 item16/Time.java
  item16.Time
+item28/ChooserArrayGeneric.java
+ item28.ChooserArrayGeneric
+item34/Operation2.java
+ item34.Operation2
+ item34.Operation2$1
+ item34.Operation2$2
+ item34.Operation2$3
+ item34.Operation2$4
+item33/Main.java
+ item33.Main
+item37/PlantMap.java
+ item37.PlantMap
+item31/MyWildStack.java
+ item31.MyWildStack
+item16/Watch.java
+ item16.Watch
+item31/Main.java
+ item31.Main
+item28/ChooserListGeneric.java
+ item28.ChooserListGeneric
+item22/Figure.java
+ item22.Figure
+item28/ChooserArray.java
+ item28.ChooserArray
+item33/Favorites.java
+ item33.Favorites
+item36/Main.java
+ item36.Main
+item30/PlayGround.java
+ item30.PlayGround
+item15/stores/BookStore.java
+ item15.stores.BookStore
+item17/PlayGround.java
+ item17.PlayGround
+item34/Main.java
+ item34.Main
+item32/Main.java
+ item32.Main
+item26/Main.java
+ item26.Main
+item28/Main.java
+ item28.Main
+item29/MyStack.java
+ item29.MyStack
 item24/Calculator.java
  item24.Calculator
  item24.Calculator$Operation
  item24.Calculator$StaticOperation
-item17/PlayGround.java
- item17.PlayGround
+item27/Item27.java
+ item27.Item27
+item34/Planet.java
+ item34.Planet
 item18/Complex.java
  item18.Complex
-item16/Watch.java
- item16.Watch
+item34/Operation.java
+ item34.Operation
+ item34.Operation$1
 item22/PhysicalConstants.java
  item22.PhysicalConstants
 item24/Main.java
@@ -18,73 +68,30 @@ item22/Circle.java
  item22.Circle
 item15/Store.java
  item15.Store
+item28/Item28.java
+ item28.Item28
 item16/apple/AppleWatch.java
  item16.apple.AppleWatch
-item22/Figure.java
- item22.Figure
+item32/VarArgs.java
+ item32.VarArgs
 item15/Application.java
  item15.Application
+item29/MyGenericStack.java
+ item29.MyGenericStack
 item22/Main.java
  item22.Main
 item22/PhysicalConstantsUtil.java
  item22.PhysicalConstantsUtil
-item15/stores/BookStore.java
- item15.stores.BookStore
-item15/User.java
- item15.User
-item28/ChooserArray.java
- item28.ChooserArray
-item28/ChooserArrayGeneric.java
- item28.ChooserArrayGeneric
-item26/Main.java
- item26.Main
-item28/Main.java
- item28.Main
-item27/Item27.java
- item27.Item27
-item28/ChooserListGeneric.java
- item28.ChooserListGeneric
-item28/Item28.java
- item28.Item28
-item31/Swap.java
- item31.Swap
-item29/MyGenericStack.java
- item29.MyGenericStack
-item31/Main.java
- item31.Main
-item29/MyStack.java
- item29.MyStack
-item30/PlayGround.java
- item30.PlayGround
-item31/MyWildStack.java
- item31.MyWildStack
-item32/Main.java
- item32.Main
-item32/VarArgs.java
- item32.VarArgs
-item33/Favorites.java
- item33.Favorites
-item33/Main.java
- item33.Main
-item34/Planet.java
- item34.Planet
-item34/Operation2.java
- item34.Operation2
- item34.Operation2$1
- item34.Operation2$2
- item34.Operation2$3
- item34.Operation2$4
-item34/Operation.java
- item34.Operation
- item34.Operation$1
-item34/Main.java
- item34.Main
-item35/Ensemble.java
- item35.Ensemble
 item35/Main.java
  item35.Main
-item36/Text.java
- item36.Text
- item36.Text$Style
-item36/Main.java
- item36.Main
+item15/User.java
+ item15.User
+item35/Ensemble.java
+ item35.Ensemble
+item37/Plant.java
+ item37.Plant
+ item37.Plant$LifeCycle
+item31/Swap.java
+ item31.Swap
+item37/Main.java
+ item37.Main
