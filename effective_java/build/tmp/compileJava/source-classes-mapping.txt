@@ -93,5 +93,32 @@ item37/Plant.java
  item37.Plant$LifeCycle
 item31/Swap.java
  item31.Swap
+item40/Printer.java
+ item40.Printer
+item38/Main.java
+ item38.Main
 item37/Main.java
  item37.Main
+item38/ExtendedOperation.java
+ item38.ExtendedOperation
+ item38.ExtendedOperation$1
+item38/Operation.java
+ item38.Operation
+item38/BasicOperation.java
+ item38.BasicOperation
+ item38.BasicOperation$1
+ item38.BasicOperation$2
+ item38.BasicOperation$3
+ item38.BasicOperation$4
+item38/AbstractOperation.java
+ item38.AbstractOperation
+ item38.AbstractOperation$1
+ item38.AbstractOperation$2
+ item38.AbstractOperation$3
+ item38.AbstractOperation$4
+item40/DefaultPrinter.java
+ item40.DefaultPrinter
+item40/Bigram.java
+ item40.Bigram
+item40/Main.java
+ item40.Main
