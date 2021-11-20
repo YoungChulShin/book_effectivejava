@@ -3,8 +3,8 @@ item36/Text.java
  item36.Text$Style
 item16/Time.java
  item16.Time
-item28/ChooserArrayGeneric.java
- item28.ChooserArrayGeneric
+item40/Printer.java
+ item40.Printer
 item34/Operation2.java
  item34.Operation2
  item34.Operation2$1
@@ -13,46 +13,100 @@ item34/Operation2.java
  item34.Operation2$4
 item33/Main.java
  item33.Main
-item37/PlantMap.java
- item37.PlantMap
 item31/MyWildStack.java
  item31.MyWildStack
 item16/Watch.java
  item16.Watch
-item31/Main.java
- item31.Main
-item28/ChooserListGeneric.java
- item28.ChooserListGeneric
-item22/Figure.java
- item22.Figure
-item28/ChooserArray.java
- item28.ChooserArray
-item33/Favorites.java
- item33.Favorites
 item36/Main.java
  item36.Main
-item30/PlayGround.java
- item30.PlayGround
+item40/Main.java
+ item40.Main
 item15/stores/BookStore.java
  item15.stores.BookStore
 item17/PlayGround.java
  item17.PlayGround
-item34/Main.java
- item34.Main
 item32/Main.java
  item32.Main
 item26/Main.java
  item26.Main
 item28/Main.java
  item28.Main
-item29/MyStack.java
- item29.MyStack
 item24/Calculator.java
  item24.Calculator
  item24.Calculator$Operation
  item24.Calculator$StaticOperation
+item38/AbstractOperation.java
+ item38.AbstractOperation
+ item38.AbstractOperation$1
+ item38.AbstractOperation$2
+ item38.AbstractOperation$3
+ item38.AbstractOperation$4
+item16/apple/AppleWatch.java
+ item16.apple.AppleWatch
+item45/Card.java
+ item45.Card
+item39/Test.java
+ item39.Test
+item22/Main.java
+ item22.Main
+item38/Main.java
+ item38.Main
+item38/Operation.java
+ item38.Operation
+item35/Main.java
+ item35.Main
+item40/DefaultPrinter.java
+ item40.DefaultPrinter
+item39/ExceptionTest.java
+ item39.ExceptionTest
+item31/Swap.java
+ item31.Swap
+item28/Item28.java
+ item28.Item28
+item45/CardDeck.java
+ item45.CardDeck
+item46/StreamSamples.java
+ item46.StreamSamples
+item28/ChooserArrayGeneric.java
+ item28.ChooserArrayGeneric
+item42/Operation3.java
+ item42.Operation3
+item38/BasicOperation.java
+ item38.BasicOperation
+ item38.BasicOperation$1
+ item38.BasicOperation$2
+ item38.BasicOperation$3
+ item38.BasicOperation$4
+item37/PlantMap.java
+ item37.PlantMap
+item31/Main.java
+ item31.Main
+item28/ChooserListGeneric.java
+ item28.ChooserListGeneric
+item40/Bigram.java
+ item40.Bigram
+item22/Figure.java
+ item22.Figure
+item28/ChooserArray.java
+ item28.ChooserArray
+item33/Favorites.java
+ item33.Favorites
+item39/RunTests.java
+ item39.RunTests
+item45/AnagramStream.java
+ item45.AnagramStream
+item30/PlayGround.java
+ item30.PlayGround
+item45/Anagrams.java
+ item45.Anagrams
+item34/Main.java
+ item34.Main
+item29/MyStack.java
+ item29.MyStack
 item27/Item27.java
  item27.Item27
+item46/Planet.java
+ item46.Planet
 item34/Planet.java
  item34.Planet
 item18/Complex.java
@@ -60,6 +114,8 @@ item18/Complex.java
 item34/Operation.java
  item34.Operation
  item34.Operation$1
+item35/Ensemble.java
+ item35.Ensemble
 item22/PhysicalConstants.java
  item22.PhysicalConstants
 item24/Main.java
@@ -68,57 +124,27 @@ item22/Circle.java
  item22.Circle
 item15/Store.java
  item15.Store
-item28/Item28.java
- item28.Item28
-item16/apple/AppleWatch.java
- item16.apple.AppleWatch
+item37/Main.java
+ item37.Main
 item32/VarArgs.java
  item32.VarArgs
 item15/Application.java
  item15.Application
 item29/MyGenericStack.java
  item29.MyGenericStack
-item22/Main.java
- item22.Main
-item22/PhysicalConstantsUtil.java
- item22.PhysicalConstantsUtil
-item35/Main.java
- item35.Main
-item15/User.java
- item15.User
-item35/Ensemble.java
- item35.Ensemble
 item37/Plant.java
  item37.Plant
  item37.Plant$LifeCycle
-item31/Swap.java
- item31.Swap
-item40/Printer.java
- item40.Printer
-item38/Main.java
- item38.Main
-item37/Main.java
- item37.Main
+item22/PhysicalConstantsUtil.java
+ item22.PhysicalConstantsUtil
 item38/ExtendedOperation.java
  item38.ExtendedOperation
  item38.ExtendedOperation$1
-item38/Operation.java
- item38.Operation
-item38/BasicOperation.java
- item38.BasicOperation
- item38.BasicOperation$1
- item38.BasicOperation$2
- item38.BasicOperation$3
- item38.BasicOperation$4
-item38/AbstractOperation.java
- item38.AbstractOperation
- item38.AbstractOperation$1
- item38.AbstractOperation$2
- item38.AbstractOperation$3
- item38.AbstractOperation$4
-item40/DefaultPrinter.java
- item40.DefaultPrinter
-item40/Bigram.java
- item40.Bigram
-item40/Main.java
- item40.Main
+item39/MultiExceptionTest.java
+ item39.MultiExceptionTest
+item15/User.java
+ item15.User
+item49/ParameterCheck.java
+ item49.ParameterCheck
+item49/Main.java
+ item49.Main
