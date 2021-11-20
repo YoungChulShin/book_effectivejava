@@ -148,3 +148,11 @@ item49/ParameterCheck.java
  item49.ParameterCheck
 item49/Main.java
  item49.Main
+item50/Period.java
+ item50.Period
+item50/ImmutablePeriod.java
+ item50.ImmutablePeriod
+item50/MutableToImmutablePeriod.java
+ item50.MutableToImmutablePeriod
+item50/Main.java
+ item50.Main
