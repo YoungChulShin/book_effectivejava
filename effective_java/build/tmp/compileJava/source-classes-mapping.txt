@@ -156,3 +156,9 @@ item50/MutableToImmutablePeriod.java
  item50.MutableToImmutablePeriod
 item50/Main.java
  item50.Main
+item54/Cheese.java
+ item54.Cheese
+item54/Play.java
+ item54.Play
+item54/Main.java
+ item54.Main
