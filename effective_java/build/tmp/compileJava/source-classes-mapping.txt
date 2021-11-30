@@ -170,3 +170,9 @@ item60/Main.java
  item60.Main
 item61/Main.java
  item61.Main
+item65/Main.java
+ item65.Main
+item73/Main.java
+ item73.Main
+item73/MyException.java
+ item73.MyException
